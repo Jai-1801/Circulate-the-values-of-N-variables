@@ -6,14 +6,19 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Create a function called 'circulate'
 ### Step 2: 
+Get the first element from the list to be used later.
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
-Using the slicing concept rotate the list
+Using the slicing concept to rotate the list
 
 ### Step 5: 
-### Step 6: 
+After shifting the elements, place the first element at the end of the list.
+### Step 6:
+Return the modified list with the circulated values. 
+
 ## Program:
 ```
 #Program to circulate N values.
@@ -29,3 +34,4 @@ def circulate():
 ![OUTPUT](/OUTPUT.png)
 
 ## Result:
+The values have successfully circulated using the function concept in Python.
